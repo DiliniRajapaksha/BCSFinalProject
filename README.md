@@ -6,6 +6,7 @@ http://www.bcs.org/category/10669
 
 I have developed a DVD renting system for a small business.
 It is a desktop application developed using java6. The user interface is developed using swing and the following design patterns are used in the application
+
 1. Model View Controller
 2. Front Controller
 3. Data Access Object
